@@ -1,0 +1,12 @@
+[user]
+	name = MGOleynik
+	email = iamapenetrator@gmail.com
+[core]
+	quotepath = off
+	autocrlf = false
+[alias]
+	br = branch
+	co = checkout
+	ci = commit
+	st = status
+	history = log --graph
